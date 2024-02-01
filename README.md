@@ -30,7 +30,7 @@ Node.js (https://nodejs.org)
 1 - Faça o clone deste repositório para o seu ambiente local.
 
 ```bash
-cd NotasExpressMongoDB
+cd Notas_ExpressMongoDB
 ```
 
 3 - Instale as dependências do projeto
@@ -49,11 +49,11 @@ npm start
 
 ### Uso
 
-Após iniciar o servidor, você pode acessar a aplicação web no seu navegador através do endereço `http://localhost:3000`. A partir daí, você pode criar, visualizar, editar e excluir notas.
+Após iniciar o servidor, você pode acessar a aplicação web no seu navegador através do endereço `http://localhost:8000`. A partir daí, você pode criar, visualizar, editar e excluir notas.
 
 ### Funcionalidades
 
-O blog possui as seguintes funcionalidades:
+As Notas possuem as seguintes funcionalidades:
 
 🔹Visualizar todas as notas.</br>
 🔹Cadastrar novas notas, fornecendo título e descrição.</br>
